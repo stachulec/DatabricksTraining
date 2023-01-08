@@ -8,5 +8,10 @@
 
 -- COMMAND ----------
 
+-- MAGIC %python
+-- MAGIC print("I'm running Python!")
+
+-- COMMAND ----------
+
 -- MAGIC %sql
 -- MAGIC SELECT "I'm running SQL"
